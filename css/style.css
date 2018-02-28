@@ -217,7 +217,7 @@ h2.bnrtext {
     float: left;
     height: 50px;
     font: 300 40px/50px 'Barlow Condensed';
-    width: 100px;
+    width: 60px;
 }
 
 b {
@@ -229,7 +229,7 @@ b {
 
 span.span1 {
     display: inline-block;
-    width: 240px;
+    width: 284px;
     color: #fff;
     position: relative;
     white-space: nowrap;
@@ -1883,7 +1883,7 @@ span.icon_g_plus {
 		-webkit-flex: 1;          /* Chrome */
 		-ms-flex: 1;              /* IE 10 */
 		flex: 1;                  /* NEW, Spec - Opera 12.1, Firefox 20+ */
-	
+
     }
 }
 
